@@ -18,8 +18,3 @@ img:hover {
   cursor: pointer;
   transform: scale(1.05);
 }
-
-.gallery-1 {
-  margin-top: 150px;
-  margin-left: 150px;
-}

@@ -85,9 +85,3 @@ button {
 button:hover {
   background-color: #6c8cff;
 }
-
-.form-2 {
-  margin-top: 80px;
-  display: flex;
-  justify-content: center;
-}
